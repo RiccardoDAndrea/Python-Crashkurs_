@@ -15,7 +15,7 @@
 user_name = input("Wie heißt du: ")
 user_age = int(input("Wie alt bist du: "))
 age_req = int(18)
-healt = 10
+
 
 # Überprüfen, ob der Benutzer volljährig ist
 if user_age >= 18:
