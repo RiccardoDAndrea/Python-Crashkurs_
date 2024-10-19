@@ -1,6 +1,5 @@
 
 # Im folgenden Arbeitsblatt geht es darum den Umgang mit IF ELIF und ELSE statements umzugehen. 
-# Die essentziell sind bei jeder Programmiersprache.
 # Aufgabe: Entwickelt ein Szenario, eine Geschichte oder eine Situtation wo ihr ein User Input erwartet 
 
 # Erklärung: input("Hier kommt irgendein text z.B. eine Frage") 
