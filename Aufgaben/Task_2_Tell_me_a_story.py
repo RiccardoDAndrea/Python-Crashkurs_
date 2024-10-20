@@ -1,16 +1,22 @@
+# Arbeitsblatt: Umgang mit if, elif und else-Anweisungen
 
-# Im folgenden Arbeitsblatt geht es darum den Umgang mit IF ELIF und ELSE statements umzugehen. 
-# Aufgabe: Entwickelt ein Szenario, eine Geschichte oder eine Situtation wo ihr ein User Input erwartet 
 
-# Erklärung: input("Hier kommt irgendein text z.B. eine Frage") 
-#             ermöglicht es den User im Terminal eine eingabe zu betätigen
-#
-# .lower() verwandelt jeden String ob groß oder klein geschrieben in klein buchstaben das verhindert fehlerhafte eingaben.
+# - Ziel: 
+#       In diesem Arbeitsblatt lernst du, wie du if, elif und else-Anweisungen verwendest, um verschiedene Entscheidungen im Code zu treffen.
 
-# Beispiel Code:
+# - Aufgabe:
+#       Entwickle ein Szenario, eine Geschichte oder eine Situation, in der du eine Benutzereingabe erwartest. Verwende if, elif und else, um auf diese Eingabe zu reagieren und verschiedene Ergebnisse zu erzeugen.
+
+#- Erklärung:
+#       input("Hier steht eine Frage oder ein Text"): Ermöglicht es dem Benutzer, über das Terminal eine Eingabe zu machen.
+#       .lower(): Wandelt alle Buchstaben eines eingegebenen Strings in Kleinbuchstaben um, um fehlerhafte Eingaben durch Groß- und Kleinschreibung zu vermeiden.
+
+# Du kannst gerne weiter machen bei "Es war ein mall.." oder fängst von vorne an und schreibst eine neue Geschichte.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 # Benutzer nach Name und Alter fragen
-
 user_name = input("Wie heißt du: ")
 user_age = int(input("Wie alt bist du: "))
 age_req = int(18)
