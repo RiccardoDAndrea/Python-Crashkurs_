@@ -5,13 +5,14 @@
 #       In diesem Arbeitsblatt lernst du, wie du if, elif und else-Anweisungen verwendest, um verschiedene Entscheidungen im Code zu treffen.
 
 # - Aufgabe:
-#       Entwickle ein Szenario, eine Geschichte oder eine Situation, in der du eine Benutzereingabe erwartest. Verwende if, elif und else, um auf diese Eingabe zu reagieren und verschiedene Ergebnisse zu erzeugen.
+#       Entwickle ein Szenario, eine Geschichte oder eine Situation, in der du eine Benutzereingabe erwartest. Verwende if, elif und else, um auf diese Eingabe zu 
+#       reagieren und verschiedene Ergebnisse zu erzeugen.
 
 #- Erklärung:
 #       input("Hier steht eine Frage oder ein Text"): Ermöglicht es dem Benutzer, über das Terminal eine Eingabe zu machen.
 #       .lower(): Wandelt alle Buchstaben eines eingegebenen Strings in Kleinbuchstaben um, um fehlerhafte Eingaben durch Groß- und Kleinschreibung zu vermeiden.
 
-# Du kannst gerne weiter machen bei "Es war ein mall.." oder fängst von vorne an und schreibst eine neue Geschichte.
+# Du kannst gerne weiter machen bei "Es war ein mal.." oder fängst von vorne an und schreibst eine neue Geschichte.
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
